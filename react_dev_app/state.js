@@ -8,7 +8,6 @@ function App(){
         setCount(count + 1)
     }
 }
-
 return (
     <main style={mainStyles}>
         <h1>{count}</h1>

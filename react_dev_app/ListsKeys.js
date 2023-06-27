@@ -36,6 +36,7 @@ function App(){
             // Keys need to be unique, so don't use
             // Keys need to be unique among siblings
             // not globally throughout your app
+            key={data.language}
             />
         )
     })
